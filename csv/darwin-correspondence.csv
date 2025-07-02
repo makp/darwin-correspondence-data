@@ -1,4 +1,4 @@
-id,sender_surname,sender_forename,recipient_surname,recipient_forename,sorting_date,date,sender_address,recipient_address,source,languages, extent, filename
+id,sender_surname,sender_forename,recipient_surname,recipient_forename,sorting_date,date,sender_address,recipient_address,source,languages,extent,filename
 DCP-LETT-1,"Congreve","Mary","Darwin","C. R.",1821-10-27,"27 Oct [1821]","unstated","","DAR 204: 186","","","DCP-LETT-1.xml"
 DCP-LETT-1F,"Darwin","C. R.","","Friend",1822-01-01,"1 Jan 1822","","","DAR 271/1/1","","","DCP-LETT-1F.xml"
 DCP-LETT-1G,"Darwin","C. R.","","Friend",1822-01-02,"2 Jan 1822","","","DAR 271/1/1","","","DCP-LETT-1G.xml"
